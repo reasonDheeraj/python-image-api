@@ -10,5 +10,4 @@ def helloWorld():
 	return "Hello World"
 
 if __name__ == "__main__":
-    # app.run()		# For local machine
-	app.run(host='0.0.0.0')
+    app.run()		# For local machine app.run(host='0.0.0.0')
