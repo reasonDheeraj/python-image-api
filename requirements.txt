@@ -1,0 +1,5 @@
+Flask==1.1.1
+gunicorn==19.8.1
+Jinja2==2.10.1
+numpy==1.17.1
+opencv-python==3.3.1
